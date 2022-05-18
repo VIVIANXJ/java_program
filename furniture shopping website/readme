@@ -1,0 +1,18 @@
+
+this is furniture shopping website
+
+the simple functions in this website:
+
+1.Login is required for non-logged in users, unregistered users can register for the operation
+
+2.After logging in you can add products to your shopping cart
+
+3.Browse furniture on the home page, you can browse furniture listings according to categories
+
+4. Browse furniture details, open it and you can browse the product details, purchase, etc.
+
+5.Click on the confirmation button to generate an order
+
+6.Login with the administrator's username and password on the login page to access the backstage operations
+
+7.You can add, delete, change or modify users, orders, products, etc. in the background
